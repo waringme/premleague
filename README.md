@@ -2,7 +2,7 @@
 
 A brand resource hub built with Adobe Edge Delivery Services (EDS) and WYSIWYG authoring. This portal provides access to brand guidelines, approved photography, templates, and other brand assets.
 
-## Environments
+## Environmentsddd
 
 - Preview: https://main--sky-brand-portal-eds--polizzigaetano.aem.page/
 - Live: https://main--sky-brand-portal-eds--polizzigaetano.aem.live/    
